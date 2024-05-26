@@ -1,0 +1,12 @@
+E:\faculdade\Análise e Desenvolvimento de Sistemas\1º semestre\matérias\programação visual\C#\Calculadora IMC\Calculadora IMC\bin\Debug\Calculadora IMC.exe.config
+E:\faculdade\Análise e Desenvolvimento de Sistemas\1º semestre\matérias\programação visual\C#\Calculadora IMC\Calculadora IMC\bin\Debug\Calculadora IMC.exe
+E:\faculdade\Análise e Desenvolvimento de Sistemas\1º semestre\matérias\programação visual\C#\Calculadora IMC\Calculadora IMC\bin\Debug\Calculadora IMC.pdb
+E:\faculdade\Análise e Desenvolvimento de Sistemas\1º semestre\matérias\programação visual\C#\Calculadora IMC\Calculadora IMC\obj\Debug\Calculadora IMC.csproj.AssemblyReference.cache
+E:\faculdade\Análise e Desenvolvimento de Sistemas\1º semestre\matérias\programação visual\C#\Calculadora IMC\Calculadora IMC\obj\Debug\Calculadora_IMC.Form1.resources
+E:\faculdade\Análise e Desenvolvimento de Sistemas\1º semestre\matérias\programação visual\C#\Calculadora IMC\Calculadora IMC\obj\Debug\Calculadora_IMC.Form2.resources
+E:\faculdade\Análise e Desenvolvimento de Sistemas\1º semestre\matérias\programação visual\C#\Calculadora IMC\Calculadora IMC\obj\Debug\Calculadora_IMC.Form3.resources
+E:\faculdade\Análise e Desenvolvimento de Sistemas\1º semestre\matérias\programação visual\C#\Calculadora IMC\Calculadora IMC\obj\Debug\Calculadora_IMC.Properties.Resources.resources
+E:\faculdade\Análise e Desenvolvimento de Sistemas\1º semestre\matérias\programação visual\C#\Calculadora IMC\Calculadora IMC\obj\Debug\Calculadora IMC.csproj.GenerateResource.cache
+E:\faculdade\Análise e Desenvolvimento de Sistemas\1º semestre\matérias\programação visual\C#\Calculadora IMC\Calculadora IMC\obj\Debug\Calculadora IMC.csproj.CoreCompileInputs.cache
+E:\faculdade\Análise e Desenvolvimento de Sistemas\1º semestre\matérias\programação visual\C#\Calculadora IMC\Calculadora IMC\obj\Debug\Calculadora IMC.exe
+E:\faculdade\Análise e Desenvolvimento de Sistemas\1º semestre\matérias\programação visual\C#\Calculadora IMC\Calculadora IMC\obj\Debug\Calculadora IMC.pdb
